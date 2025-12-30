@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OmniMind AI Studio",
+  "description": "A high-performance, multi-modal creative workspace powered by Gemini API, featuring text generation, image creation, and high-fidelity text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
